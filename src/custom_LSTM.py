@@ -1,4 +1,4 @@
-
+# Since in we can't deliver the inputs sequentially to the keras lstm module, we define our own LSTM module using LSTMCell
 
 import tensorflow as tf
 import numpy as np
